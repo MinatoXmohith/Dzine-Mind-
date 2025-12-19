@@ -1,5 +1,8 @@
 {
-  "name": "DESIGN MIND™",
+  "name": "DZINE MIND™",
   "description": "An advanced AI design partner that acts as a Creative Director, Brand Strategist, and Future-Focused Advisor. It prioritizes systems thinking, critique, and strategic reasoning over simple generation.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
